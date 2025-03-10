@@ -8,6 +8,7 @@
           <option value="desafio-cead" />
           <option value="desafio-cead" />
           <option value="desafio-cead" />
+          <option value="desafio-cead" />
         </list>
       </option>
       <option name="ignoredPackages">
@@ -15,10 +16,12 @@
           <option value="org.dom4j:dom4j:2.1.1" />
           <option value="com.google.guava:guava:18.0" />
           <option value="org.richfaces:richfaces-core:4.5.9.Final" />
+          <option value="org.springframework:spring-context:5.3.30" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />

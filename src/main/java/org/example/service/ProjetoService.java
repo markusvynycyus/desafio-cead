@@ -2,8 +2,8 @@ package org.example.service;
 
 import org.example.dao.ProjetoDAO;
 import org.example.model.Projeto;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 

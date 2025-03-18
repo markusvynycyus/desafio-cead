@@ -5,7 +5,6 @@ import org.example.service.ProjetoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
-import javax.annotation.PostConstruct;
 import java.util.List;
 
 @Controller
@@ -17,10 +16,10 @@ public class ProjetoController {
     @Autowired
     private ProjetoService projetoService;
 
-    @PostConstruct
+    /*@PostConstruct
     public void init() {
         projetos = projetoService.listarTodos();
-    }
+    }*/
 
     public void salvar() {
         projetoService.salvar(projeto);

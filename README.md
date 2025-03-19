@@ -1,4 +1,3 @@
-Claro! Aqui está um modelo de `README.md` para o seu projeto, adaptado às tecnologias e requisitos mencionados:
 
 ---
 
